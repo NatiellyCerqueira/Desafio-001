@@ -1,7 +1,4 @@
-body{  display: flex;
-    margin: 20px 0 0 0;
-    flex-direction: row;
-}
+
 .COLUNA{
     display: flex;
     margin: 20px 0 0 0;
@@ -21,14 +18,14 @@ color: #9a9a9a;
 margin: 0 auto;
 flex: 1;}
 
-.ITEM03{
+.ITEM3{
         font-size: 18px;
         font-family: sans-serif;
         color: #9a9a9a;
         margin: 0 auto;
         flex: 1;}
         
-.ITEM04{
+.ITEM4{
         font-size: 18px;
         font-family: sans-serif;
         color: #9a9a9a;
